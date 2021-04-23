@@ -16,11 +16,13 @@ You can find the original code without solutions in the original [Udacity SageMa
 Please see the [original README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks). For the solutions only clone this repository:
 
 ## Tools and Technologies
-Amazon Sage Maker
-PyTorch
-Scikit Learn
-Pandas
-Numpy
+**[Python](https://www.python.org/downloads/release/python-364/)**
+**[Amazon Sage Maker](https://aws.amazon.com/sagemaker/)**
+**[PyTorch](https://pytorch.org/)**
+**[Scikit Learn](https://scikit-learn.org/0.17/install.html)**
+**[Pandas](https://pandas.pydata.org/)**
+**[Numpy](https://numpy.org/)**
+
 
 ## Web app final result
 
@@ -28,7 +30,7 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-![Web app example](./webapp.gif) 
+![Web app example](https://raw.githubusercontent.com/hjlopes/sagemaker-sentiment-analysis/e79699bf209b12ba1126937b2eb4d54cff34468b/webapp.gif) 
 
 
 
