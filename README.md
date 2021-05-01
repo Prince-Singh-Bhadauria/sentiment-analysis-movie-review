@@ -12,16 +12,13 @@ You can find the original code without solutions in the original Udacity SageMak
  This project assumes some familiarity with SageMaker, the IMDB Sentiment Analysis using XGBoost mini-project (which can be found in the original repository) should provide enough background.
 
 
-## Setup instructions
-Please see the [original README](https://github.com/udacity/sagemaker-deployment/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks). For the solutions only clone this repository:
-
 ## Tools and Technologies
-**[Python](https://www.python.org/downloads/release/python-364/)**
-**[Amazon Sage Maker](https://aws.amazon.com/sagemaker/)**
-**[PyTorch](https://pytorch.org/)**
-**[Scikit Learn](https://scikit-learn.org/0.17/install.html)**
-**[Pandas](https://pandas.pydata.org/)**
-**[Numpy](https://numpy.org/)**
+**[Python](https://www.python.org/downloads/release/python-364/)**.      
+**[Amazon Sage Maker](https://aws.amazon.com/sagemaker/)**.         
+**[PyTorch](https://pytorch.org/)**.           
+**[Scikit Learn](https://scikit-learn.org/0.17/install.html)**.        
+**[Pandas](https://pandas.pydata.org/)**.          
+**[Numpy](https://numpy.org/)**.        
 
 
 ## Web app final result
