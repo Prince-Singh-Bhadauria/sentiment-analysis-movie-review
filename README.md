@@ -7,7 +7,7 @@ In the final architecture AWS API Gateway and AWS Lambda functions is used as we
 
 ![Web app Diagram](./Web&#32;App&#32;Diagram.svg) 
 
-You can find the original code without solutions in the original [Udacity SageMaker Deployment repository](https://github.com/udacity/sagemaker-deployment).
+You can find the original code without solutions in the original Udacity SageMaker Deployment repository.
 
  This project assumes some familiarity with SageMaker, the IMDB Sentiment Analysis using XGBoost mini-project (which can be found in the original repository) should provide enough background.
 
